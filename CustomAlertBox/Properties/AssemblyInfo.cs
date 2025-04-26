@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("CustomAlertBox")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP")]
+[assembly: AssemblyCompany("KZ")]
 [assembly: AssemblyProduct("CustomAlertBox")]
-[assembly: AssemblyCopyright("Copyright © HP 2025")]
+[assembly: AssemblyCopyright("Copyright © KZ 2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
