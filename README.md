@@ -33,6 +33,14 @@ KZ_CustomAlertBox alert = new KZ_CustomAlertBox();
 alert.Show("This is a custom alert message!", "Alert", KZ_CustomAlertBox.AlertType.Warning);
 ```
 
+## Alerts
+![resim](https://github.com/user-attachments/assets/a5c0f4df-26f3-4a2e-95d9-6a8fbbdabcf2)
+![resim](https://github.com/user-attachments/assets/2eb8c39b-1690-4f66-8c7a-b4c8e5ef5941)
+![resim](https://github.com/user-attachments/assets/a72c036d-9e41-4c01-9302-a7ed5476eb72)
+![resim](https://github.com/user-attachments/assets/d61a20c2-ab05-44a3-af3a-6341f6ba9ad2)
+
+
+
 ## Support
 
 If you find this project useful, please give it a star! 🌟
